@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "133254964944",
+    "firebase_url": "https://ezmap-ensem.firebaseio.com",
+    "project_id": "ezmap-ensem",
+    "storage_bucket": "ezmap-ensem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133254964944:android:53038d0c5857f19b8ee0d5",
+        "android_client_info": {
+          "package_name": "com.example.ezmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133254964944-3s6kipqnkpnt5f07fietif5vnd9ipud0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ezmap",
+            "certificate_hash": "206c5767ffe75d21e4d7be56edefc3fc5914b8f1"
+          }
+        },
+        {
+          "client_id": "133254964944-ri54na1k0emcfq6kvbgl4u6o0o6js6bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa-s4mAJEKYEdSDPMk_7hOU0_zksprtL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133254964944-ri54na1k0emcfq6kvbgl4u6o0o6js6bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
